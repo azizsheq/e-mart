@@ -8,6 +8,7 @@ const Header = () => {
             <li><a href="/contact">Contact</a></li>
             <li><a href="/inventory">Inventory</a></li>
             <li><a href="/orders">Orders</a></li>
+            <li><a href="/login">Login</a></li>
         </ul>
     );
 };
